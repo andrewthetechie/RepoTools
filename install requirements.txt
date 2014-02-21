@@ -1,0 +1,7 @@
+Requirements of repomanager
+
+/var/svn - owned by www-data:www-data
+/opt/repomanager - owned by www-data:www-data
+/opt/repomanager/temp  - owned by www-data:www-data
+
+libphp-pclzip - must be installed
